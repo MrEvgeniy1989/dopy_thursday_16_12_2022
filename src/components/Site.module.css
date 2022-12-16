@@ -20,6 +20,16 @@
 
 }
 
+.nav a.active {
+    text-decoration: none;
+    color: #31d703;
+}
+
+.navLink {
+    text-decoration: none;
+    color: lightseagreen;
+}
+
 .content{
     background-color:#282c34;
     height: 500px;
